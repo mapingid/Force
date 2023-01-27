@@ -1,0 +1,7 @@
+D:\Force\Force\bin\Debug\Force.exe.config
+D:\Force\Force\bin\Debug\Force.exe
+D:\Force\Force\bin\Debug\Force.pdb
+D:\Force\Force\obj\Debug\Force.csproj.AssemblyReference.cache
+D:\Force\Force\obj\Debug\Force.csproj.CoreCompileInputs.cache
+D:\Force\Force\obj\Debug\Force.exe
+D:\Force\Force\obj\Debug\Force.pdb
