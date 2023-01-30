@@ -11,6 +11,7 @@ namespace Force
     static void Main( string[] args )
     {
       Point2DClass p3 = new Point2DClass();
+
       p3.y = 10;
       p3.x = new int[1] { 10 };
       Point2DClass p4 = p3;
